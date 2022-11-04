@@ -4,8 +4,8 @@ const ProjectsContainer = () => {
     return (
         <section className="projects-container">
             <h2>Projetos</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde quis magni, sit eum nam quasi libero aspernatur, distinctio non atque error? Officia repellat recusandae laboriosam error provident nostrum adipisci doloremque?</p>
-            <a href="#" className="btn">
+            <p>Este link te levará para meu GitHub, lá você poderá encontrar todos os meus repositórios até o momento.</p>
+            <a href="https://github.com/viniciusFUU?tab=repositories" className="btn" target="_blank">
                 Ver Projetos
             </a>
         </section>
